@@ -6,7 +6,7 @@ In this simple web app, both Google Vision API and OpenAI's GPT-3.5 Turbo model 
 
 ## Video Demo
 
-https://github.com/murataltanbas/image-to-story-app/assets/53222730/1bbce49d-3238-4cb1-b269-b8f80e7ee091
+https://github.com/murataltanbas/image-to-story-app/assets/53222730/35cfea7f-8507-48bd-ba95-211634e38936
 
 ## Instructions
 
