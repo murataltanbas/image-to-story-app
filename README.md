@@ -1,10 +1,12 @@
-# Project README
+# README
 
 ## Image-to-Story Generator
 
 In this simple web app, both Google Vision API and OpenAI's GPT-3.5 Turbo model are utilized. The initial step involves analyzing the content of uploaded images using Google Vision API to extract labels, which subsequently serve as prompts for story generation using the GPT-3.5 Turbo model.
 
 ## Video Demo
+
+https://github.com/murataltanbas/image-to-story-app/assets/53222730/1bbce49d-3238-4cb1-b269-b8f80e7ee091
 
 ## Instructions
 
